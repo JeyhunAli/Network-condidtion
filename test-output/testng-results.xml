@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="647591" started-at="2019-11-06T10:27:46 EST" finished-at="2019-11-06T10:38:33 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="647591" started-at="2019-11-06T10:27:46 EST" finished-at="2019-11-06T10:38:33 EST">
+      <class name="vector_HomoSector.Vector_HomoSector.NetworkConditions">
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="230108" started-at="2019-11-06T10:27:46 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:31:36 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="115714" started-at="2019-11-06T10:31:36 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:33:31 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="76725" started-at="2019-11-06T10:33:31 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:34:48 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="57967" started-at="2019-11-06T10:34:48 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:35:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="50669" started-at="2019-11-06T10:35:46 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:36:37 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="29982" started-at="2019-11-06T10:36:37 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:37:07 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="29882" started-at="2019-11-06T10:37:07 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:37:37 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="25102" started-at="2019-11-06T10:37:37 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:38:02 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="16371" started-at="2019-11-06T10:38:02 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:38:18 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[75000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="13098" started-at="2019-11-06T10:38:18 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:38:31 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(int, int)[pri:0, instance:vector_HomoSector.Vector_HomoSector.NetworkConditions@614ddd49]" name="test" duration-ms="1927" started-at="2019-11-06T10:38:31 EST" data-provider="networkBandwidths" finished-at="2019-11-06T10:38:33 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- vector_HomoSector.Vector_HomoSector.NetworkConditions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
